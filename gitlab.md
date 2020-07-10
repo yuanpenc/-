@@ -1,0 +1,5 @@
+### 公钥私钥问题和 git lab Permission denied 错误解决方案
+
+https://jingyan.baidu.com/article/3c48dd34f4d4fce10be358ff.html
+
+https://www.iteye.com/blog/tinyhema-2019754
